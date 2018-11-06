@@ -1,0 +1,12 @@
+{"RAW_TRAIN_LABELS": "./data/stage_1_train_labels.csv",
+ "TRAIN_DCM_DIR": "./data/stage_2_train_images",
+ "TRAIN_JPG_DIR": "./data/processed/train_jpg",
+ "TEST_DCM_DIR": "./data/stage_2_test_images",
+ "TEST_JPG_DIR": "./data/processed/test_jpg",
+ "TRAIN_CSV": "./data/processed/train.csv", 
+ "VAL_CSV": "./data/processed/val.csv", 
+ "CLASSES_CSV": "./data/processed/classes.csv",
+ "SNAPSHOT_DIR": "./snapshots/",
+ "MODEL_50": "./models/resnet50_csv_22.h5",
+ "MODEL_101": "./models/resnet101_csv_21.h5",
+ "SUBMISSION_DIR": "./submissions/"}

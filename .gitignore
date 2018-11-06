@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.c
+*.so
+*.o
+*.h5
+/.pytest_cache
+/.cache
+/submissions
+/snapshots
+/data/processed
+*.zip
+*.bak
+/data/stage_2_test_images
+/data/stage_2_train_images

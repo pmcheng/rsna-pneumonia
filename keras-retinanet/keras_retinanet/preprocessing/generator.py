@@ -1,4 +1,8 @@
 """
+Copyright 2018 Phillip Cheng
+This file has been modified to add a random constant to images 
+for augmentation during training.
+
 Copyright 2017-2018 Fizyr (https://fizyr.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");

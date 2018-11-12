@@ -5,6 +5,18 @@ by Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár.
 
 Please note: This is a version forked from version 0.4.1 and slightly modified by Phillip Cheng for use in the RSNA Pneumonia Detection Challenge.  For the original version, see [here](https://github.com/fizyr/keras-retinanet).
 
+The following files were changed in this version:
+
+
+- `preprocessing/generator.py`
+- `layers/filter_detections.py`
+
+The following files were added:
+
+- `callbacks/eval_rsna.py`
+- `utils/eval_rsna.py`
+
+
 ## Installation
 
 1) Clone this repository.
